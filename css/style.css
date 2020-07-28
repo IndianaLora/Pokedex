@@ -1,0 +1,45 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.formulario-center{
+margin-top: px;
+margin-right: 1100px;
+}
+.registro{
+   
+   background-image: url(../img/34.jpg);
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   background-attachment: fixed;
+   color: rgb(255, 0, 157);
+}
+.pokelist{
+    background-image: url(../img/Jonamon.jpg);
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   background-attachment: fixed;
+   
+}
+.editar{
+   background-image: url(../img/23.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: rgb(7, 160, 180);
+ }
+
+
+
+.formulario-editar{
+  
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   background-attachment: fixed;
+  margin-left: 300px;
+  margin-right: 300px;
+  color: rgb(180, 7, 7);
+}
+.form-group{
+    margin-left: 5px;
+}
